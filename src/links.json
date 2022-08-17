@@ -1,0 +1,27 @@
+[
+    {
+        "link": "https://www.instagram.com/domiibunn/",
+        "img": "instagram.svg",
+        "text": "Instagram"
+    },
+    {
+        "link": "https://www.twitch.tv/domiibunni",
+        "img": "twitch.svg",
+        "text": "Twitch"
+    },
+    {
+        "link": "https://discord.gg/v3Aa5h6yZC",
+        "img": "discord.svg",
+        "text": "Discord"
+    },
+    {
+        "link": "https://www.tiktok.com/@domiibunn",
+        "img": "tiktok.svg",
+        "text": "Tiktok"
+    },
+    {
+        "link": "https://github.com/domiiBunn/",
+        "img": "github.svg",
+        "text": "GitHub"
+    }
+]
