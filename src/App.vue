@@ -52,8 +52,11 @@ body {
 
 .listing {
   display: flex;
-  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   gap: 20px;
+  width: 100%;
+  flex-wrap: wrap;
 }
 
 .card {
