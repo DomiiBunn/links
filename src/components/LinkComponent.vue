@@ -26,4 +26,10 @@ img {
   justify-content: space-between;
   align-items: center;
 }
+
+@media only screen and (max-width: 815px) {
+  .link-component {
+    flex-direction: column;
+  }
+}
 </style>
